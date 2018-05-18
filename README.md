@@ -4,8 +4,10 @@
 １．外部ライブラリをインストール
 
 $ curl -sS https://getcomposer.org/installer | php
+
 $ sudo mv composer.phar /usr/local/bin/composer  
 $ cd /work
+
 $ vi composer.json で下記を記載。
 
 {
